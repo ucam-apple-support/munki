@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AdditionalHttpHeaders</key>
+	<array>
+		<string>Authorization: Basic bXVua2lodHRwdXNlcjp3ZWJTZW1QcjFuMQ==</string>
+	</array>
+	<key>SoftwareRepoURL</key>
+	<string>http://192.168.181.6/munki_repo</string>
+	<key>SuppressStopButtonOnInstall</key>
+	<true/>
+</dict>
+</plist>
