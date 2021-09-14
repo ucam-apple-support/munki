@@ -4,7 +4,7 @@
 <dict>
 	<key>AdditionalHttpHeaders</key>
 	<array>
-		<string>Authorization: Basic bXVua2lodHRwdXNlcjp3ZWJTZW1QcjFuMQ==</string>
+		<string>Authorization: Basic </string>
 	</array>
 	<key>SoftwareRepoURL</key>
 	<string>http://192.168.181.6/munki_repo</string>
